@@ -5,9 +5,9 @@
 <aside>
 💡 This page has been built as a notebook for myself while solving Ethernaut challenges. Some of the solutions may not be so descriptive. 
 
-Keep in mind that I have solved all by myself and I have tried to explain details in complex challenges as much as possible. Since the purpose was not writing a guide, it might not  Just a few of solutions may be missing, but for those I have shared walk-through articles which are not written by me. 
+I have solved all by myself and I have tried to explain details in complex challenges as much as possible. Since the purpose was not writing a guide, it might not be so helpful for some of challenges. A few of solutions may be missing, but for those I have shared walk-through articles which are not written by me. 
 
-This document might be helpful for you if you don’t want to read a long walk-through, but you want to read a keyword as a hint. Good luck!
+This document might be helpful for you if you don’t want to read long walk-throughs, but you want to quickly check for keywords as a hint. Good luck!
 
 </aside>
 
